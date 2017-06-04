@@ -1,0 +1,9 @@
+c:\users\niks2\documents\visual studio 2017\Projects\SimpleApp\SimpleApp\bin\Debug\SimpleApp.exe.config
+c:\users\niks2\documents\visual studio 2017\Projects\SimpleApp\SimpleApp\bin\Debug\SimpleApp.exe
+c:\users\niks2\documents\visual studio 2017\Projects\SimpleApp\SimpleApp\bin\Debug\SimpleApp.pdb
+c:\users\niks2\documents\visual studio 2017\Projects\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csprojResolveAssemblyReference.cache
+c:\users\niks2\documents\visual studio 2017\Projects\SimpleApp\SimpleApp\obj\Debug\SimpleApp.Form1.resources
+c:\users\niks2\documents\visual studio 2017\Projects\SimpleApp\SimpleApp\obj\Debug\SimpleApp.Properties.Resources.resources
+c:\users\niks2\documents\visual studio 2017\Projects\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csproj.GenerateResource.Cache
+c:\users\niks2\documents\visual studio 2017\Projects\SimpleApp\SimpleApp\obj\Debug\SimpleApp.exe
+c:\users\niks2\documents\visual studio 2017\Projects\SimpleApp\SimpleApp\obj\Debug\SimpleApp.pdb
